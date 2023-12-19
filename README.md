@@ -25,6 +25,8 @@ rank=np.linalg.matrix_rank(a)
 print(rank)
 ```
 
+
+
 ## Output:
 ![image](https://github.com/23007965/RANK-OF-A-MATRIX/assets/138971238/406d657b-005e-463d-8d85-eb4792959779)
 
